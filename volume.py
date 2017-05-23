@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #Control MPD Client volume using a physical rotary encoder
-#sudo apt-get install mopidy
-#sudo apt-get install python-mpd2
+#pip install mopidy-spotify
+#pip install python-mpd2
 
 #import dependencies
 from mpd import MPDClient
