@@ -4,6 +4,7 @@
 #Requires a LastFM API key
 #https://secure.last.fm/login?next=/api/account/create
 #pip install python-mpd2
+#pip install urllib2
 
 #Add dependencies
 import urllib
